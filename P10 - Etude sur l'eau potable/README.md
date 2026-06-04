@@ -26,7 +26,7 @@ Avant tout import dans Power BI :
 ### 2. Blueprint
 Conception de la structure du dashboard avant implémentation — 3 vues définies en amont :
 
-![Blueprint](screens/mockup.JPG)
+![Blueprint](mockup.JPG)
 
 ### 3. Dashboard — 3 vues interactives
 

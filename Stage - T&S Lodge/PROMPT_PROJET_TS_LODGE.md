@@ -28,12 +28,12 @@ Stage d'un mois (13 avril → 13 mai 2025) chez **T&S Lodge**, gîte unique gér
 
 ## Contacts
 
-| Rôle | Nom | Téléphone | Email |
-|---|---|---|---|
-| Propriétaire / gérante | Sarah Blondel | 06 50 99 14 02 | blondelsarah41@gmail.com |
-| Co-gérant | Bernard Moizan | 06 63 03 18 41 | bernard.moizan@enedis.fr |
-| Comptable | Élodie Gresle (Axescibles) | 06 72 46 00 60 | elodie.gresle@axescibles.fr |
-| Contact général | — | — | tslodge@tslodge.net |
+| Rôle | Nom |
+|---|---|
+| Propriétaire / gérante | Sarah Blondel |
+| Co-gérant | Bernard Moizan |
+| Comptable | Élodie Gresle (Axescibles) |
+| Contact général | — |
 
 ---
 
