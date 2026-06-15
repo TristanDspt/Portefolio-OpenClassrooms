@@ -19,7 +19,7 @@ Ce repo regroupe l'ensemble des projets réalisés dans le cadre de ma formation
 | [P9](#p9) | Analyse des ventes d'une librairie + Dashboard | Python · SciPy · Streamlit · Plotly · Jupyter | 03/2026 |
 | [Stage](#stage) | Analyse financière T&S Lodge | Python · Pandas · Plotly · Jupyter | 04–05/2026 |
 | [P10](#p10) | Tableau de bord accès à l'eau potable — DWFA | Power BI · Python · Pandas | 06/2026 |
-| [P11](#p11) | *(à venir)* | — | — |
+| [P11](#p11) | Étude de marché export avec Python — La Poule qui Chante | Python · Scikit-learn · Pandas · Jupyter | 06/2026 |
 | [P12](#p12) | *(à venir)* | — | — |
 
 ---
@@ -145,7 +145,16 @@ Dashboard Power BI 3 vues (Monde / Continent / Pays) pour identifier les pays pr
 ---
 
 ## P11
-### *(à venir)*
+### Étude de marché export avec Python — La Poule qui Chante
+**06/2026** · [Voir le dossier](./P11%20-%20Réalisez%20une%20étude%20de%20marché%20avec%20Python/)
+
+Analyse de 131 pays (FAO + Banque Mondiale) pour identifier les meilleurs marchés à l'export pour un producteur de volailles bio. ACP (85% variance en 5 composantes), double clustering CAH + K-Means (K=4), scoring composite des 37 pays cibles.
+
+> *Sur 131 pays, un seul cluster réunit toutes les conditions : riche, importateur, business-friendly. 37 pays. Podium : Japon · Allemagne · Émirats. Le clustering ne ment pas.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
