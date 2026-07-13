@@ -175,7 +175,7 @@ Comparaison de 4 algorithmes (Régression Logistique, KNN, Random Forest, K-Mean
 
 ## P13
 ### Piloter un projet data augmenté avec l'IA — BottleNeck
-**06/2026** · [Voir le dossier](./P13%20-%20Pilotez%20un%20projet%20Data%20augment%C3%A9%20par%20l'IA/)
+**07/2026** · [Voir le dossier](./P13%20-%20Pilotez%20un%20projet%20Data%20augment%C3%A9%20par%20l'IA/)
 
 Amélioration critique du P6 par segmentation ML (KMeans, clustering hiérarchique) sur le catalogue BottleNeck. Démarche documentée : cahier des charges, veille technologique, comparaison de 2 variantes, arbitrage multi-critères, registre des risques. Usage encadré de l'IA.
 

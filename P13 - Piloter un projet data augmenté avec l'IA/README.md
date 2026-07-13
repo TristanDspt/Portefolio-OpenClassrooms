@@ -1,6 +1,6 @@
 # P13 — Piloter un projet data augmenté avec l'IA — BottleNeck (suite P6)
 
-> Projet de formation | Juin 2026
+> Projet de formation | Juillet 2026
 
 ## Contexte
 
