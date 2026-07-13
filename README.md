@@ -18,10 +18,10 @@ Ce repo regroupe l'ensemble des projets réalisés dans le cadre de ma formation
 | [P8](#p8) | Analyse sociodémographique avec DBT | Snowflake · dbt · Python · Pandas · Seaborn | 03/2026 |
 | [P9](#p9) | Analyse des ventes d'une librairie + Dashboard | Python · SciPy · Streamlit · Plotly · Jupyter | 03/2026 |
 | [Stage](#stage) | Analyse financière T&S Lodge | Python · Pandas · Plotly · Jupyter | 04–05/2026 |
-| [P10](#p10) | Tableau de bord accès à l'eau potable — DWFA | Power BI · Python · Pandas | 06/2026 |
+| [P10](#p10) | Tableau de bord accès à l'eau potable — DWFA | Power BI · Python · Pandas | 05/2026 |
 | [P11](#p11) | Étude de marché export avec Python — La Poule qui Chante | Python · Scikit-learn · Pandas · Jupyter | 06/2026 |
 | [P12](#p12) | Détection automatique de faux billets — ONCFM | Python · Scikit-learn · Pandas · Jupyter | 06/2026 |
-| [P13](#p13) | Piloter un projet data augmenté avec l'IA — BottleNeck | Python · Scikit-learn · Pandas · Jupyter | 06/2026 |
+| [P13](#p13) | Piloter un projet data augmenté avec l'IA — BottleNeck | Python · Scikit-learn · Pandas · Jupyter | 07/2026 |
 
 ---
 

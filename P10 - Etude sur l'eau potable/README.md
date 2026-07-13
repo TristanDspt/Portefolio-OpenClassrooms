@@ -1,6 +1,6 @@
 # P10 — Tableau de bord accès à l'eau potable — DWFA
 
-> Projet de formation | Juin 2026
+> Projet de formation | Mai 2026
 
 ## Contexte
 
