@@ -165,11 +165,7 @@ Analyse de 131 pays (FAO + Banque Mondiale) pour identifier les meilleurs march�
 
 ## À propos
 
-<<<<<<< HEAD
-Reconversion professionnelle vers le Data Analyst.  
-=======
-Reconversion professionnelle vers le Data Analyst.
->>>>>>> cffc291ebb5b22f6d2cc00b35941de23ba79f020
+Reconversion professionnelle vers le Data Analyst / Dev IA.  
 Parcours OpenClassrooms — Formation Data Analyst.
 
 Tous les projets de formation sont réalisés dans le cadre du parcours OC. Les données du stage T&S Lodge sont partagées avec l'accord explicite des co-gérants du gîte.
