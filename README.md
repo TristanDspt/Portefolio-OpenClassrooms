@@ -20,13 +20,14 @@ Ce repo regroupe l'ensemble des projets réalisés dans le cadre de ma formation
 | [Stage](#stage) | Analyse financière T&S Lodge | Python · Pandas · Plotly · Jupyter | 04–05/2026 |
 | [P10](#p10) | Tableau de bord accès à l'eau potable — DWFA | Power BI · Python · Pandas | 06/2026 |
 | [P11](#p11) | Étude de marché export avec Python — La Poule qui Chante | Python · Scikit-learn · Pandas · Jupyter | 06/2026 |
-| [P12](#p12) | *(à venir)* | — | — |
+| [P12](#p12) | Détection automatique de faux billets — ONCFM | Python · Scikit-learn · Pandas · Jupyter | 06/2026 |
+| [P13](#p13) | Piloter un projet data augmenté avec l'IA — BottleNeck | Python · Scikit-learn · Pandas · Jupyter | 06/2026 |
 
 ---
 
 ## P3
 ### Requêter une base de données avec SQL
-**12/2025** · [Voir le dossier](./P03%20-%20Requêter%20une%20BDD%20SQL/)
+**12/2025** · [Voir le dossier](./P3%20-%20Requêter%20une%20BDD%20SQL/)
 
 Projet d'entraînement aux fondamentaux SQL sur des données fictives d'une compagnie d'assurance habitation (~30 000 contrats). Modélisation relationnelle, création et chargement de la BDD, contrôle qualité, 12 requêtes SQL.
 
@@ -37,7 +38,7 @@ Projet d'entraînement aux fondamentaux SQL sur des données fictives d'une comp
 
 ## P5
 ### Création et utilisation d'une base de données immobilière — DATAImmo
-**01/2026** · [Voir le dossier](./P05%20-%20Création%20et%20utilisation%20d'une%20base%20de%20données%20immobilière%20avec%20SQL/)
+**01/2026** · [Voir le dossier](./P5%20-%20Création%20et%20utilisation%20d'une%20base%20de%20données%20immobilière%20avec%20SQL/)
 
 Modélisation complète MCD → MLD → MPD pour Laplace Immo. BDD PostgreSQL de 7 tables (34k+ transactions), 12 requêtes SQL avancées dont window functions (`RANK() OVER PARTITION BY`), conformité RGPD.
 
@@ -48,7 +49,7 @@ Modélisation complète MCD → MLD → MPD pour Laplace Immo. BDD PostgreSQL de
 
 ## P4
 ### Étude de santé publique avec Python — FAO
-**01/2026** · [Voir le dossier](./P04%20-%20Etude%20de%20santé%20publique%20en%20Python/)
+**01/2026** · [Voir le dossier](./P4%20-%20Etude%20de%20santé%20publique%20en%20Python/)
 
 Analyse de la disponibilité alimentaire mondiale et de la sous-nutrition à partir des données FAO (2013–2017). Zoom cas concret sur le manioc en Thaïlande.
 
@@ -62,7 +63,7 @@ Analyse de la disponibilité alimentaire mondiale et de la sous-nutrition à par
 
 ## P6
 ### Optimisation de la gestion des données d'une boutique — Bottleneck
-**02/2026** · [Voir le dossier](./P06%20-%20Optimiser%20la%20gestion%20des%20données%20d'une%20boutique%20avec%20Python/)
+**02/2026** · [Voir le dossier](./P6%20-%20Optimiser%20la%20gestion%20des%20données%20d'une%20boutique%20avec%20Python/)
 
 Consolidation de 3 sources hétérogènes (ERP, web, table de liaison) pour un caviste en ligne. Nettoyage, jointures, analyses univariées, corrélations, indicateurs métier (CA, taux de marge, Pareto, Gini).
 
@@ -76,7 +77,7 @@ Consolidation de 3 sources hétérogènes (ERP, web, table de liaison) pour un c
 
 ## P7
 ### Tableau de bord dynamique Power BI — Sanitoral
-**02/2026** · [Voir le dossier](./P07%20-%20Créer%20un%20tableau%20de%20bord%20dynamique%20avec%20Power%20BI/)
+**02/2026** · [Voir le dossier](./P7%20-%20Créer%20un%20tableau%20de%20bord%20dynamique%20avec%20Power%20BI/)
 
 Dashboard 8 vues pour piloter 104 projets mondiaux (retard, coût, livrables, Gantt). Démarche PSC avant implémentation, modèle en étoile, filtres croisés persistants.
 
@@ -89,7 +90,7 @@ Dashboard 8 vues pour piloter 104 projets mondiaux (retard, coût, livrables, Ga
 
 ## P8
 ### Analyse sociodémographique avec DBT — OpenClassrooms
-**03/2026** · [Voir le dossier](./P08%20-%20Analyser%20l'évolution%20de%20profils%20sociodémographiques%20avec%20DBT/)
+**03/2026** · [Voir le dossier](./P8%20-%20Analyser%20l'évolution%20de%20profils%20sociodémographiques%20avec%20DBT/)
 
 Pipeline DBT (Raw → Staging → Intermediate → Mart) sur Snowflake. Analyse des étudiants Data OC vs population INSEE sur 4 ans. Prétraitement Python du format Excel multi-index INSEE.
 
@@ -103,7 +104,7 @@ Pipeline DBT (Raw → Staging → Intermediate → Mart) sur Snowflake. Analyse 
 
 ## P9
 ### Analyse des ventes d'une librairie + Dashboard Streamlit
-**03/2026** · [Voir le dossier](./P09%20-%20Analyser%20les%20ventes%20d'une%20librairie%20avec%20Python/)
+**03/2026** · [Voir le dossier](./P9%20-%20Analyser%20les%20ventes%20d'une%20librairie%20avec%20Python/)
 
 Analyses statistiques (chi², Spearman, Kruskal-Wallis) sur 687k transactions. Démystification de deux faux positifs statistiques. Dashboard Streamlit 3 pages avec architecture modulaire en composants.
 
@@ -146,7 +147,7 @@ Dashboard Power BI 3 vues (Monde / Continent / Pays) pour identifier les pays pr
 
 ## P11
 ### Étude de marché export avec Python — La Poule qui Chante
-**06/2026** · [Voir le dossier](./P11%20-%20Etude%20de%20marché%20avec%20Python)
+**06/2026** · [Voir le dossier](./P11%20-%20Réalisez%20une%20étude%20de%20marché%20avec%20Python/)
 
 Analyse de 131 pays (FAO + Banque Mondiale) pour identifier les meilleurs marchés à l'export pour un producteur de volailles bio. ACP (85% variance en 5 composantes), double clustering CAH + K-Means (K=4), scoring composite des 37 pays cibles.
 
@@ -159,7 +160,30 @@ Analyse de 131 pays (FAO + Banque Mondiale) pour identifier les meilleurs march�
 ---
 
 ## P12
-### *(à venir)*
+### Détection automatique de faux billets — ONCFM
+**06/2026** · [Voir le dossier](./P12%20-%20D%C3%A9tectez%20des%20faux%20billets%20avec%20Python/)
+
+Comparaison de 4 algorithmes (Régression Logistique, KNN, Random Forest, K-Means) pour classifier des billets vrais/faux à partir de 6 dimensions géométriques. Script CLI de production avec modèles sérialisés (`.pkl`).
+
+> *98% de recall sur les faux billets. Le K-Means écarté non pour ses performances mais pour son instabilité fondamentale — 97% sur un seed, 3% sur un autre. Un algorithme dont le résultat dépend du hasard n'a pas sa place en production.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+---
+
+## P13
+### Piloter un projet data augmenté avec l'IA — BottleNeck
+**06/2026** · [Voir le dossier](./P13%20-%20Pilotez%20un%20projet%20Data%20augment%C3%A9%20par%20l'IA/)
+
+Amélioration critique du P6 par segmentation ML (KMeans, clustering hiérarchique) sur le catalogue BottleNeck. Démarche documentée : cahier des charges, veille technologique, comparaison de 2 variantes, arbitrage multi-critères, registre des risques. Usage encadré de l'IA.
+
+> *Une segmentation prix/ventes seule rate 32 produits à stock dormant — invisibles jusqu'à l'ajout de la rotation de stock comme 4ᵉ axe. La netteté statistique n'est pas le seul critère : l'actionnabilité métier prime.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
