@@ -146,7 +146,7 @@ Dashboard Power BI 3 vues (Monde / Continent / Pays) pour identifier les pays pr
 
 ## P11
 ### Étude de marché export avec Python — La Poule qui Chante
-**06/2026** · [Voir le dossier](./P11%20-%20Réalisez%20une%20étude%20de%20marché%20avec%20Python/)
+**06/2026** · [Voir le dossier](./P11%20-%20Etude%20de%20marché%20avec%20Python)
 
 Analyse de 131 pays (FAO + Banque Mondiale) pour identifier les meilleurs marchés à l'export pour un producteur de volailles bio. ACP (85% variance en 5 composantes), double clustering CAH + K-Means (K=4), scoring composite des 37 pays cibles.
 
@@ -165,7 +165,7 @@ Analyse de 131 pays (FAO + Banque Mondiale) pour identifier les meilleurs march�
 
 ## À propos
 
-Reconversion professionnelle vers le Data Analyst / Dev IA.  
+Reconversion professionnelle vers le Data Analyst.  
 Parcours OpenClassrooms — Formation Data Analyst.
 
 Tous les projets de formation sont réalisés dans le cadre du parcours OC. Les données du stage T&S Lodge sont partagées avec l'accord explicite des co-gérants du gîte.
