@@ -134,7 +134,7 @@ Stage d'un mois chez T&S Lodge, gîte en Indre (36) en vue d'une mise en vente. 
 
 ## P10
 ### Tableau de bord accès à l'eau potable — DWFA
-**06/2026** · [Voir le dossier](./P10%20-%20Etude%20sur%20l'eau%20potable/)
+**05/2026** · [Voir le dossier](./P10%20-%20Etude%20sur%20l'eau%20potable/)
 
 Dashboard Power BI 3 vues (Monde / Continent / Pays) pour identifier les pays prioritaires d'une ONG. Prétraitement Python, blueprint de conception, indicateur composite d'efficacité gouvernementale.
 
